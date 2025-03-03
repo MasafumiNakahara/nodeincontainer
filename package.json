@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasafumiNakahara/nodeincontainer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasafumiNakahara/nodeincontainer/issues"
+  },
+  "homepage": "https://github.com/MasafumiNakahara/nodeincontainer#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
